@@ -1,0 +1,26 @@
+[
+    {
+        "_benchmark_name": "max_concurrency_16",
+        "max_concurrency": 16
+    },
+    {
+        "_benchmark_name": "max_concurrency_32",
+        "max_concurrency": 32
+    },
+    {
+        "_benchmark_name": "max_concurrency_64",
+        "max_concurrency": 64
+    },
+    {
+        "_benchmark_name": "max_concurrency_128",
+        "max_concurrency": 128
+    },
+    {
+        "_benchmark_name": "max_concurrency_256",
+        "max_concurrency": 256
+    },
+    {
+        "_benchmark_name": "max_concurrency_512",
+        "max_concurrency": 512
+    }
+]

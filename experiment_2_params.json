@@ -1,0 +1,26 @@
+[
+    {
+        "_benchmark_name": "max_loras_1",
+        "max_loras": 1
+    },
+    {
+        "_benchmark_name": "max_loras_2",
+        "max_loras": 2
+    },
+    {
+        "_benchmark_name": "max_loras_4",
+        "max_loras": 4
+    },
+    {
+        "_benchmark_name": "max_loras_8",
+        "max_loras": 8
+    },
+    {
+        "_benchmark_name": "max_loras_16",
+        "max_loras": 16
+    },
+    {
+        "_benchmark_name": "max_loras_32",
+        "max_loras": 32
+    }
+]
